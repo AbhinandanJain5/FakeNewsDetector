@@ -71,7 +71,7 @@ streamlit run app.py
 - Deploy the web app using **Heroku** or **Streamlit Cloud**.
 
 ## License
-This project is open-source under the **MIT License**.
+This project is open-source 
 
 ---
 ### Feel free to contribute and improve the project!
